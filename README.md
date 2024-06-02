@@ -3,5 +3,5 @@ In my senior year reading a computer science degree in [University of Science Ma
 
 #### Personal projects
 * Goz : A real-time analysis dashboard of a simulated e-commerce data stream. (Python)
-* Kafka Streaming Data Pipeline (Scala and Java)    
+* Kafka Streaming Data Pipeline (Scala & Java)    
 * Recommendation system using a foundation model (LLM) for a streaming service (Python)
