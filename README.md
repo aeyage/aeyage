@@ -1,6 +1,6 @@
 ### About [俺について]  
 
-*As of Jun 10, 2025*
+<kbd>As of Jun 10, 2025</kbd>
 
 A senior computer science undergrad, class of '25 from [University of Science Malaysia](https://www.usm.my/) and used to work on core backend service engineering at [Sonicboom Solutions](https://sonicboom.my/) as their software engineer intern. Selected for ***[OxML 2024](https://www.oxfordml.school/) - MLx Representation Learning & Gen. AI*** among ca. 500 AI talents globally at [Mathematical Institute, Oxford University](https://www.maths.ox.ac.uk/). Currently exploring the possible synergies among statistics, data, and computing in finance and business settings——quant finance. I fancy machine learning infrastructure, deep neural nets, distributed-, and accelerated computing.
 
